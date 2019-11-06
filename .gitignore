@@ -1,0 +1,7 @@
+__pycache__/**
+.idea/**
+venv/**
+winecellar.db
+david.json
+**.pyc
+**/__pycache__
